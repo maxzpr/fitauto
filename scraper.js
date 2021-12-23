@@ -15,7 +15,7 @@ const run = async () => {
 
             page.on('response', async response => {
                 let url = response.url();
-                if (url.includes("https://api.pttfitauto.com/applayout/list")) {
+                if (url.includes("https://api.pttfitauto.com/applayout/list") && !url.includes('sortby')) {
                     let data = await response.json();
                     results = (data?.results ?? {})?.shoppening_list ?? [];
 
