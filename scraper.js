@@ -11,8 +11,6 @@ const run = async () => {
 
             const page = await browser.newPage()
 
-            await page.setViewportSize({ width: 1200, height: 800 })
-
             let results = { shoppening_list: [] };
 
             page.on('response', async response => {
