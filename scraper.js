@@ -15,9 +15,16 @@ const run = async () => {
 
             page.on('response', async response => {
                 let url = response.url();
+                
                 if (url.includes("https://api.pttfitauto.com/applayout/list") && !url.includes('sortby')) {
                     let data = await response.json();
-                    results = (data?.results ?? {})?.shoppening_list ?? [];
+
+                    results = ((data?.results ?? {})?.shoppening_list ?? []).map(r=>({
+                        ...r,
+                        category: r.category?.toString(),
+                        image: r.image?.url
+                    }));
+                    
 
                     fs.writeFileSync(path.join(__dirname, "./views/data.json"), JSON.stringify(results, null, 2));
 
