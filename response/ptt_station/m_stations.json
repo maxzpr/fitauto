@@ -1,0 +1,4231 @@
+{
+  "name": "m_stations",
+  "results": [
+    {
+      "id": "14459",
+      "name": "สถานีบริการ สาขาสามแยกพิชัย",
+      "km": "1.32",
+      "address": "195/4 ถ.อำนวยสงคราม",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.7862130998574",
+      "lng": "100.520166368902",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000101424",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "5",
+          "name": "Unlead Gas 95",
+          "image": "https://www.pttstation.com/Content/icons/products/new_2019_2/5bs.png",
+          "group": "1"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        }
+      ],
+      "pttcard": [],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=14459"
+    },
+    {
+      "id": "14259",
+      "name": "สถานีบริการ สถานีบริการ น้ำมันเชื้อเพลิงสวัสดิการกรมการขนส่งทหารบก",
+      "km": "1.53",
+      "address": "2 ถ.พระราม5",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.7900416976442",
+      "lng": "100.528311416748",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000100055",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "5",
+          "name": "Unlead Gas 95",
+          "image": "https://www.pttstation.com/Content/icons/products/new_2019_2/5bs.png",
+          "group": "1"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "4",
+          "name": "Pro Check",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/Procheck.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "29",
+          "name": "CO-OP PTT",
+          "image": "https://www.pttstation.com/NULL"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=14259"
+    },
+    {
+      "id": "14429",
+      "name": "สถานีบริการ สาขาพระราชวัง",
+      "km": "1.59",
+      "address": "ภายในบริเวณสำนักพระราชวัง ถ.ราชดำเ",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.7698780877323",
+      "lng": "100.513827470482",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000101457",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "5",
+          "name": "Unlead Gas 95",
+          "image": "https://www.pttstation.com/Content/icons/products/new_2019_2/5bs.png",
+          "group": "1"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "30",
+          "name": "COCO PTT",
+          "image": "https://www.pttstation.com/NULL"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=14429"
+    },
+    {
+      "id": "14410",
+      "name": "สถานีบริการ สาขาสนามเป้า",
+      "km": "1.71",
+      "address": "208/1 ถ.พหลโยธิน สามเสนใน",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.7688343982207",
+      "lng": "100.540818041403",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000101385",
+      "bound": null,
+      "phone": "",
+      "bound_type": "1",
+      "product": [
+        {
+          "id": "2",
+          "name": "Premium Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/PremiumDiesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "6",
+          "name": "GASOHOL 95-E85",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E85_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "3",
+          "name": "FIT Auto",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/8FitAuto.png"
+        },
+        {
+          "id": "38",
+          "name": "ptt fill and go",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/Fill_Go_092020.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        },
+        {
+          "id": "11",
+          "name": "Friendly Design",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/12Friendly.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "30",
+          "name": "COCO PTT",
+          "image": "https://www.pttstation.com/NULL"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=14410"
+    },
+    {
+      "id": "14254",
+      "name": "สถานีบริการ สวัสดิการกรมแพทย์ทหารบก",
+      "km": "1.92",
+      "address": "8 ถ.พญาไท",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.7615664039895",
+      "lng": "100.536176109082",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000100060",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "5",
+          "name": "Unlead Gas 95",
+          "image": "https://www.pttstation.com/Content/icons/products/new_2019_2/5bs.png",
+          "group": "1"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "29",
+          "name": "CO-OP PTT",
+          "image": "https://www.pttstation.com/NULL"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=14254"
+    },
+    {
+      "id": "14431",
+      "name": "สถานีบริการ สาขาสวัสดิการกรมช่างอากาศ",
+      "km": "1.95",
+      "address": "ริมถนนประดิพัทธ์",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.7935324968442",
+      "lng": "100.530325868903",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000100054",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "30",
+          "name": "COCO PTT",
+          "image": "https://www.pttstation.com/NULL"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=14431"
+    },
+    {
+      "id": "13697",
+      "name": "สถานีบริการ บจ.สุเสรี",
+      "km": "3.12",
+      "address": "166 ถ.สามเสน",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.7653870916603",
+      "lng": "100.500356222691",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000100045",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "4",
+          "name": "Pro Check",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/Procheck.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        }
+      ],
+      "pttcard": [],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=13697"
+    },
+    {
+      "id": "14432",
+      "name": "สถานีบริการ สาขาวิภาวดี",
+      "km": "3.17",
+      "address": "181 ถ.วิภาวดีรังสิต",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.77939",
+      "lng": "100.55613",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000101463",
+      "bound": null,
+      "phone": "",
+      "bound_type": "1",
+      "product": [
+        {
+          "id": "2",
+          "name": "Premium Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/PremiumDiesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "5",
+          "name": "Unlead Gas 95",
+          "image": "https://www.pttstation.com/Content/icons/products/new_2019_2/5bs.png",
+          "group": "1"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "3",
+          "name": "FIT Auto",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/8FitAuto.png"
+        },
+        {
+          "id": "38",
+          "name": "ptt fill and go",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/Fill_Go_092020.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        },
+        {
+          "id": "8",
+          "name": "ฮั่ว เซ่ง ฮง",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/5DimSum.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "30",
+          "name": "COCO PTT",
+          "image": "https://www.pttstation.com/NULL"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=14432"
+    },
+    {
+      "id": "14597",
+      "name": "สถานีบริการ สาขาจรัญสนิทวงศ์ 94",
+      "km": "3.39",
+      "address": "688/1 ถ.จรัญสนิทวงศ์",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.803299280997",
+      "lng": "100.512205839488",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000100068",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "2",
+          "name": "Premium Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/PremiumDiesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "5",
+          "name": "Unlead Gas 95",
+          "image": "https://www.pttstation.com/Content/icons/products/new_2019_2/5bs.png",
+          "group": "1"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "6",
+          "name": "Texas chicken",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/3Texas.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        },
+        {
+          "id": "11",
+          "name": "Friendly Design",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/12Friendly.png"
+        }
+      ],
+      "pttcard": [],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=14597"
+    },
+    {
+      "id": "13664",
+      "name": "สถานีบริการ บจ.ขวัญดาวปิโตรเลียม",
+      "km": "3.55",
+      "address": "7 ถ.พระสุเมรุ",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.7635175100216",
+      "lng": "100.496754396158",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000100038",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "5",
+          "name": "Unlead Gas 95",
+          "image": "https://www.pttstation.com/Content/icons/products/new_2019_2/5bs.png",
+          "group": "1"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        }
+      ],
+      "pttcard": [],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=13664"
+    },
+    {
+      "id": "14420",
+      "name": "สถานีบริการ สาขาการรถไฟ นพวงศ์",
+      "km": "3.88",
+      "address": "519 ถ.รองเมือง รองเมือง",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.7430069072413",
+      "lng": "100.516290370304",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000101406",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "30",
+          "name": "COCO PTT",
+          "image": "https://www.pttstation.com/NULL"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=14420"
+    },
+    {
+      "id": "13692",
+      "name": "สถานีบริการ บจ.พรประเสริฐบริการ(2003)",
+      "km": "4.08",
+      "address": "47/1 ซ.อินทรามระ 22 ถ.สุทธิสารวินิจ",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.7836841945543",
+      "lng": "100.564013408873",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000100033",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        }
+      ],
+      "pttcard": [],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=13692"
+    },
+    {
+      "id": "14540",
+      "name": "สถานีบริการ สาขาถนนกำแพงเพชร 2(ฝั่งสวนจตุจักร)",
+      "km": "4.28",
+      "address": "821 ถ.กำแพงเพชร 2 (ฝั่งจตุจักร)",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.8087619163759",
+      "lng": "100.548344531532",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000100053",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "30",
+          "name": "COCO PTT",
+          "image": "https://www.pttstation.com/NULL"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=14540"
+    },
+    {
+      "id": "13659",
+      "name": "สถานีบริการ บจ.สมบูรณ์สินปิโตรเลียม",
+      "km": "4.38",
+      "address": "250 ถ.สุทธิสารแยก1",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.7825971300871",
+      "lng": "100.567048304188",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000100042",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "5",
+          "name": "Unlead Gas 95",
+          "image": "https://www.pttstation.com/Content/icons/products/new_2019_2/5bs.png",
+          "group": "1"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "6",
+          "name": "GASOHOL 95-E85",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E85_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        }
+      ],
+      "pttcard": [],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=13659"
+    },
+    {
+      "id": "15308",
+      "name": "สถานีบริการ สาขาสามย่าน",
+      "km": "4.64",
+      "address": "1323 ถ.พระราม 4",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.7346043",
+      "lng": "100.5248681",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000103012",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "2",
+          "name": "Premium Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/PremiumDiesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "5",
+          "name": "Unlead Gas 95",
+          "image": "https://www.pttstation.com/Content/icons/products/new_2019_2/5bs.png",
+          "group": "1"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "8",
+          "name": "ฮั่ว เซ่ง ฮง",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/5DimSum.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "7",
+          "name": "PTT Blue Card",
+          "image": "https://www.pttstation.com//Content/s-assets/Cards/card_blue-app.png"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=15308"
+    },
+    {
+      "id": "14412",
+      "name": "สถานีบริการ สาขานานาใต้",
+      "km": "4.74",
+      "address": "100/1 ซ.นานาใต้ ถ.สุขุมวิท",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.7418715297628",
+      "lng": "100.552805317069",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000101393",
+      "bound": null,
+      "phone": "",
+      "bound_type": "1",
+      "product": [
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "30",
+          "name": "COCO PTT",
+          "image": "https://www.pttstation.com/NULL"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=14412"
+    },
+    {
+      "id": "13649",
+      "name": "สถานีบริการ บจ.พิมลรุ่งเรือง (1991)",
+      "km": "5.51",
+      "address": "1065 ถ.กรุงเทพ-นนทบุรี",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.8257043621107",
+      "lng": "100.531206915925",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000100031",
+      "bound": null,
+      "phone": "",
+      "bound_type": "2",
+      "product": [
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "6",
+          "name": "GASOHOL 95-E85",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E85_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "7",
+          "name": "PTT Blue Card",
+          "image": "https://www.pttstation.com//Content/s-assets/Cards/card_blue-app.png"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=13649"
+    },
+    {
+      "id": "14427",
+      "name": "สถานีบริการ สาขาการรถไฟบางกอกน้อย",
+      "km": "5.56",
+      "address": "150/1 ถ.อิสรภาพ",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.7600810024735",
+      "lng": "100.47824659803",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000101450",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "30",
+          "name": "COCO PTT",
+          "image": "https://www.pttstation.com/NULL"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=14427"
+    },
+    {
+      "id": "14409",
+      "name": "สถานีบริการ สาขาสำนักงานใหญ่",
+      "km": "5.61",
+      "address": "555 ม.1",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.8166643372694",
+      "lng": "100.558197036064",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000101386",
+      "bound": null,
+      "phone": "",
+      "bound_type": "1",
+      "product": [
+        {
+          "id": "2",
+          "name": "Premium Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/PremiumDiesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "6",
+          "name": "GASOHOL 95-E85",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E85_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "38",
+          "name": "ptt fill and go",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/Fill_Go_092020.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "30",
+          "name": "COCO PTT",
+          "image": "https://www.pttstation.com/NULL"
+        },
+        {
+          "id": "7",
+          "name": "PTT Blue Card",
+          "image": "https://www.pttstation.com//Content/s-assets/Cards/card_blue-app.png"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=14409"
+    },
+    {
+      "id": "14256",
+      "name": "สถานีบริการ สถานีบริการ น้ำมันเชื้อเพลิงสวัสดิการกรมการขนส่งทหารเรือ",
+      "km": "5.97",
+      "address": "ถนนอิสรภาพ",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.7513214150617",
+      "lng": "100.477999233284",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000100094",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "11",
+          "name": "Friendly Design",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/12Friendly.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "29",
+          "name": "CO-OP PTT",
+          "image": "https://www.pttstation.com/NULL"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=14256"
+    },
+    {
+      "id": "15347",
+      "name": "สถานีบริการ สาขาวิภาวดีรังสิต 11",
+      "km": "5.97",
+      "address": "559 ถ.วิภาวดีรังสิต",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.820901",
+      "lng": "100.557791",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000103057",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "5",
+          "name": "Unlead Gas 95",
+          "image": "https://www.pttstation.com/Content/icons/products/new_2019_2/5bs.png",
+          "group": "1"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "6",
+          "name": "GASOHOL 95-E85",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E85_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "6",
+          "name": "Texas chicken",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/3Texas.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        },
+        {
+          "id": "11",
+          "name": "Friendly Design",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/12Friendly.png"
+        },
+        {
+          "id": "8",
+          "name": "ฮั่ว เซ่ง ฮง",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/5DimSum.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "7",
+          "name": "PTT Blue Card",
+          "image": "https://www.pttstation.com//Content/s-assets/Cards/card_blue-app.png"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=15347"
+    },
+    {
+      "id": "18935",
+      "name": "สถานีบริการ บจ. สตาร์ แก๊ส",
+      "km": "6.03",
+      "address": "79 ถ.พิบูลสงคราม",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.825344",
+      "lng": "100.503053",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000103368",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "2",
+          "name": "Premium Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/PremiumDiesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "7",
+          "name": "PTT Blue Card",
+          "image": "https://www.pttstation.com//Content/s-assets/Cards/card_blue-app.png"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "26",
+      "province_name": "นนทบุรี",
+      "link_share": "https://www.pttstation.com/th?station_id=18935"
+    },
+    {
+      "id": "13708",
+      "name": "สถานีบริการ หจก.ปิติอาภา",
+      "km": "6.03",
+      "address": "62/99 ม.3 ถ.บางกรวย-ไทรน้อย",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.8031808263154",
+      "lng": "100.478425048449",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000100117",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        }
+      ],
+      "pttcard": [],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "26",
+      "province_name": "นนทบุรี",
+      "link_share": "https://www.pttstation.com/th?station_id=13708"
+    },
+    {
+      "id": "15039",
+      "name": "สถานีบริการ สาขาประชาราษฎร์",
+      "km": "6.07",
+      "address": "2716 ถ.กรุงเทพ-นนทบุรี",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.830948522898",
+      "lng": "100.525652880457",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000101283",
+      "bound": null,
+      "phone": "",
+      "bound_type": "1",
+      "product": [
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        }
+      ],
+      "pttcard": [],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=15039"
+    },
+    {
+      "id": "14414",
+      "name": "สถานีบริการ สาขาลาดพร้าว",
+      "km": "6.2",
+      "address": "999/2 ถ.ลาดพร้าว",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.8049735867339",
+      "lng": "100.576234733841",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000101396",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "6",
+          "name": "GASOHOL 95-E85",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E85_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        },
+        {
+          "id": "11",
+          "name": "Friendly Design",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/12Friendly.png"
+        }
+      ],
+      "pttcard": [],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=14414"
+    },
+    {
+      "id": "15547",
+      "name": "สถานีบริการ หจก.ศรีเจริญภัณฑ์",
+      "km": "6.44",
+      "address": "1093 ถ.วิภาวดีรังสิต",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.8253734625661",
+      "lng": "100.558758221415",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000100030",
+      "bound": null,
+      "phone": "",
+      "bound_type": "2",
+      "product": [
+        {
+          "id": "2",
+          "name": "Premium Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/PremiumDiesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "5",
+          "name": "Unlead Gas 95",
+          "image": "https://www.pttstation.com/Content/icons/products/new_2019_2/5bs.png",
+          "group": "1"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        }
+      ],
+      "pttcard": [],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=15547"
+    },
+    {
+      "id": "14457",
+      "name": "สถานีบริการ สาขาสุทธิสาร",
+      "km": "6.59",
+      "address": "80/7 ถ.สุทธิสารวินิจฉัย",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.7890535567495",
+      "lng": "100.586578133249",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000100041",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        }
+      ],
+      "pttcard": [],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=14457"
+    },
+    {
+      "id": "15040",
+      "name": "สถานีบริการ สาขาประชาอุทิศ 2",
+      "km": "6.66",
+      "address": "999/2 ถ.ประชาอุทิศ",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.7695439084062",
+      "lng": "100.588228942341",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000100021",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        }
+      ],
+      "pttcard": [],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=15040"
+    },
+    {
+      "id": "14639",
+      "name": "สถานีบริการ สาขาประชาชื่น",
+      "km": "6.69",
+      "address": "1022 ถ.ประชาชื่น",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.8351672640433",
+      "lng": "100.539937226625",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000101381",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        }
+      ],
+      "pttcard": [],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=14639"
+    },
+    {
+      "id": "13774",
+      "name": "สถานีบริการ บจ.เกียรติชัยวัฒนาออยล์",
+      "km": "6.88",
+      "address": "163 ถ.กรุงเทพฯ-นนทบุรี",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.8375049055235",
+      "lng": "100.516984970992",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000100118",
+      "bound": null,
+      "phone": "",
+      "bound_type": "2",
+      "product": [
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "5",
+          "name": "Unlead Gas 95",
+          "image": "https://www.pttstation.com/Content/icons/products/new_2019_2/5bs.png",
+          "group": "1"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        },
+        {
+          "id": "11",
+          "name": "Friendly Design",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/12Friendly.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "7",
+          "name": "PTT Blue Card",
+          "image": "https://www.pttstation.com//Content/s-assets/Cards/card_blue-app.png"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "26",
+      "province_name": "นนทบุรี",
+      "link_share": "https://www.pttstation.com/th?station_id=13774"
+    },
+    {
+      "id": "14416",
+      "name": "สถานีบริการ สาขากระทรวงยุติธรรม",
+      "km": "6.9",
+      "address": "ข้างศาลอาญา ถ.รัชดาภิเษก จตุจักร",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.8171420081839",
+      "lng": "100.575162751993",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000101399",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "30",
+          "name": "COCO PTT",
+          "image": "https://www.pttstation.com/NULL"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=14416"
+    },
+    {
+      "id": "14258",
+      "name": "สถานีบริการ สถานีบริการ น้ำมันสวัสดิการกองพันทหารสื่อสารที่ 1 รอ.)",
+      "km": "7",
+      "address": "9 ถ.นางลิ้นจี่",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.7145594776956",
+      "lng": "100.539940612335",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000100056",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "5",
+          "name": "Unlead Gas 95",
+          "image": "https://www.pttstation.com/Content/icons/products/new_2019_2/5bs.png",
+          "group": "1"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "29",
+          "name": "CO-OP PTT",
+          "image": "https://www.pttstation.com/NULL"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=14258"
+    },
+    {
+      "id": "14719",
+      "name": "สถานีบริการ บจ.เรส แอเรีย",
+      "km": "7.18",
+      "address": "139 ซ.สายสิน",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.840534",
+      "lng": "100.534336",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000102580",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "2",
+          "name": "Premium Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/PremiumDiesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "5",
+          "name": "Unlead Gas 95",
+          "image": "https://www.pttstation.com/Content/icons/products/new_2019_2/5bs.png",
+          "group": "1"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "6",
+          "name": "GASOHOL 95-E85",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E85_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        }
+      ],
+      "pttcard": [],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=14719"
+    },
+    {
+      "id": "15231",
+      "name": "สถานีบริการ บจ.3เอ็นพีพี",
+      "km": "7.23",
+      "address": "112/4 ถ.บรมราชชนนี",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.7857",
+      "lng": "100.4606",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000103178",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "5",
+          "name": "Unlead Gas 95",
+          "image": "https://www.pttstation.com/Content/icons/products/new_2019_2/5bs.png",
+          "group": "1"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "6",
+          "name": "GASOHOL 95-E85",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E85_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        },
+        {
+          "id": "11",
+          "name": "Friendly Design",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/12Friendly.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "7",
+          "name": "PTT Blue Card",
+          "image": "https://www.pttstation.com//Content/s-assets/Cards/card_blue-app.png"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=15231"
+    },
+    {
+      "id": "19122",
+      "name": "สถานีบริการ บจ. อัครปิโตรเลียม",
+      "km": "7.23",
+      "address": "8/88 ม.3",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.829222",
+      "lng": "100.487961",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000103371",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "2",
+          "name": "Premium Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/PremiumDiesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "5",
+          "name": "Unlead Gas 95",
+          "image": "https://www.pttstation.com/Content/icons/products/new_2019_2/5bs.png",
+          "group": "1"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [],
+      "pttcard": [],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "26",
+      "province_name": "นนทบุรี",
+      "link_share": "https://www.pttstation.com/th?station_id=19122"
+    },
+    {
+      "id": "15004",
+      "name": "สถานีบริการ สาขาโรงพยาบาลศรีธัญญา",
+      "km": "7.41",
+      "address": "47/110 ม.4",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.8425003932988",
+      "lng": "100.518839114013",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000100111",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "6",
+          "name": "GASOHOL 95-E85",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E85_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        },
+        {
+          "id": "11",
+          "name": "Friendly Design",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/12Friendly.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "30",
+          "name": "COCO PTT",
+          "image": "https://www.pttstation.com/NULL"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "26",
+      "province_name": "นนทบุรี",
+      "link_share": "https://www.pttstation.com/th?station_id=15004"
+    },
+    {
+      "id": "14553",
+      "name": "สถานีบริการ บจ.อาร์ จี เอ็นเนอร์ยี่2010",
+      "km": "7.67",
+      "address": "ถนนประชาอุทิศ",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.7676805956838",
+      "lng": "100.59741189805",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000101682",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "5",
+          "name": "Unlead Gas 95",
+          "image": "https://www.pttstation.com/Content/icons/products/new_2019_2/5bs.png",
+          "group": "1"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        }
+      ],
+      "pttcard": [],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=14553"
+    },
+    {
+      "id": "14438",
+      "name": "สถานีบริการ สาขาถนนเจริญกรุง 87",
+      "km": "8.14",
+      "address": "2211 ม.8 ถ.เจริญกรุง",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.7056892538162",
+      "lng": "100.506780924119",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000100049",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "5",
+          "name": "Unlead Gas 95",
+          "image": "https://www.pttstation.com/Content/icons/products/new_2019_2/5bs.png",
+          "group": "1"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "30",
+          "name": "COCO PTT",
+          "image": "https://www.pttstation.com/NULL"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=14438"
+    },
+    {
+      "id": "15200",
+      "name": "สถานีบริการ สาขาแยกประชาอุทิศ-ลาดพร้าว",
+      "km": "8.46",
+      "address": "359 ถ.ประดิษฐ์มนูธรรม",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.7715050",
+      "lng": "100.6051690",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000102880",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "2",
+          "name": "Premium Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/PremiumDiesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "5",
+          "name": "Unlead Gas 95",
+          "image": "https://www.pttstation.com/Content/icons/products/new_2019_2/5bs.png",
+          "group": "1"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "557",
+          "name": "EV",
+          "image": "https://www.pttstation.com/Content/icons/products/EVStationIcon300x300.png",
+          "group": "3"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "6",
+          "name": "Texas chicken",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/3Texas.png"
+        },
+        {
+          "id": "3",
+          "name": "FIT Auto",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/8FitAuto.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        },
+        {
+          "id": "8",
+          "name": "ฮั่ว เซ่ง ฮง",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/5DimSum.png"
+        },
+        {
+          "id": "11",
+          "name": "Friendly Design",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/12Friendly.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "7",
+          "name": "PTT Blue Card",
+          "image": "https://www.pttstation.com//Content/s-assets/Cards/card_blue-app.png"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=15200"
+    },
+    {
+      "id": "15076",
+      "name": "สถานีบริการ สาขาลาดพร้าว วังหิน",
+      "km": "8.6",
+      "address": "499 ถ.ลาดพร้าววังหิน",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.821908267",
+      "lng": "100.591310432",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000102774",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "2",
+          "name": "Premium Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/PremiumDiesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "5",
+          "name": "Unlead Gas 95",
+          "image": "https://www.pttstation.com/Content/icons/products/new_2019_2/5bs.png",
+          "group": "1"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "557",
+          "name": "EV",
+          "image": "https://www.pttstation.com/Content/icons/products/EVStationIcon300x300.png",
+          "group": "3"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "3",
+          "name": "FIT Auto",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/8FitAuto.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        },
+        {
+          "id": "11",
+          "name": "Friendly Design",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/12Friendly.png"
+        },
+        {
+          "id": "8",
+          "name": "ฮั่ว เซ่ง ฮง",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/5DimSum.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "7",
+          "name": "PTT Blue Card",
+          "image": "https://www.pttstation.com//Content/s-assets/Cards/card_blue-app.png"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=15076"
+    },
+    {
+      "id": "15113",
+      "name": "สถานีบริการ บจ.เหรียญทองราชพฤกษ์",
+      "km": "8.7",
+      "address": "59 ถ.ราชพฤกษ์",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.7930",
+      "lng": "100.4482",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000102922",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "2",
+          "name": "Premium Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/PremiumDiesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "6",
+          "name": "GASOHOL 95-E85",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E85_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        },
+        {
+          "id": "11",
+          "name": "Friendly Design",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/12Friendly.png"
+        }
+      ],
+      "pttcard": [],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=15113"
+    },
+    {
+      "id": "15067",
+      "name": "สถานีบริการ สาขาเพื่อสวัสดิการกรมวิทยาศาสตร์การแพทย์",
+      "km": "8.71",
+      "address": "88/60 ม.4",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.8546569556023",
+      "lng": "100.529863978475",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000100100",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        },
+        {
+          "id": "11",
+          "name": "Friendly Design",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/12Friendly.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "30",
+          "name": "COCO PTT",
+          "image": "https://www.pttstation.com/NULL"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "26",
+      "province_name": "นนทบุรี",
+      "link_share": "https://www.pttstation.com/th?station_id=15067"
+    },
+    {
+      "id": "15227",
+      "name": "สถานีบริการ บจ.ยูเนี่ยน อินฟินิตี้กรุ๊ป",
+      "km": "8.9",
+      "address": "58 ถ.พรานนก-พุทธมณฑลสาย 4",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.7531184",
+      "lng": "100.4480524",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000103041",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "2",
+          "name": "Premium Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/PremiumDiesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "5",
+          "name": "Unlead Gas 95",
+          "image": "https://www.pttstation.com/Content/icons/products/new_2019_2/5bs.png",
+          "group": "1"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        },
+        {
+          "id": "11",
+          "name": "Friendly Design",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/12Friendly.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "7",
+          "name": "PTT Blue Card",
+          "image": "https://www.pttstation.com//Content/s-assets/Cards/card_blue-app.png"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=15227"
+    },
+    {
+      "id": "18014",
+      "name": "สถานีบริการ สาขาเจริญราษฎร์",
+      "km": "8.9",
+      "address": "92/1 ถ.เจริญราษฎร์",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.6973160",
+      "lng": "100.5134780",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000103010",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "2",
+          "name": "Premium Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/PremiumDiesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "5",
+          "name": "Unlead Gas 95",
+          "image": "https://www.pttstation.com/Content/icons/products/new_2019_2/5bs.png",
+          "group": "1"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        }
+      ],
+      "pttcard": [],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=18014"
+    },
+    {
+      "id": "14498",
+      "name": "สถานีบริการ สาขารามคำแหง",
+      "km": "8.98",
+      "address": "1378 ถ.รามคำแหง",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.7450661744198",
+      "lng": "100.603649326476",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000101397",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "6",
+          "name": "GASOHOL 95-E85",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E85_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        }
+      ],
+      "pttcard": [],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=14498"
+    },
+    {
+      "id": "13656",
+      "name": "สถานีบริการ สาขายานนาวา",
+      "km": "9.04",
+      "address": "1400/1 ถ.พระราม 3",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.6972886051552",
+      "lng": "100.546764480554",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000100052",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "7",
+          "name": "PTT Blue Card",
+          "image": "https://www.pttstation.com//Content/s-assets/Cards/card_blue-app.png"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=13656"
+    },
+    {
+      "id": "15185",
+      "name": "สถานีบริการ สาขายานนาวา",
+      "km": "9.04",
+      "address": "1400/1 ถ.พระราม 3",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.6972886051552",
+      "lng": "100.546764480554",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000100052",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [],
+      "service": [],
+      "pttcard": [],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=15185"
+    },
+    {
+      "id": "15287",
+      "name": "สถานีบริการ สาขาราชพฤกษ์ 1",
+      "km": "9.04",
+      "address": "31/12 ม.13",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.7619856295046",
+      "lng": "100.444454649465",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000101495",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "2",
+          "name": "Premium Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/PremiumDiesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "6",
+          "name": "GASOHOL 95-E85",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E85_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "557",
+          "name": "EV",
+          "image": "https://www.pttstation.com/Content/icons/products/EVStationIcon300x300.png",
+          "group": "3"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "38",
+          "name": "ptt fill and go",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/Fill_Go_092020.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        },
+        {
+          "id": "11",
+          "name": "Friendly Design",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/12Friendly.png"
+        },
+        {
+          "id": "8",
+          "name": "ฮั่ว เซ่ง ฮง",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/5DimSum.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "7",
+          "name": "PTT Blue Card",
+          "image": "https://www.pttstation.com//Content/s-assets/Cards/card_blue-app.png"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=15287"
+    },
+    {
+      "id": "15467",
+      "name": "สถานีบริการ บจ.ประจวบคีรีขันธ์ปิโตรเลียม",
+      "km": "9.31",
+      "address": "88 ม.14 ถ.ปิ่นเกล้า-นครไชยศรี",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.7793919349884",
+      "lng": "100.440741465371",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000100125",
+      "bound": null,
+      "phone": "",
+      "bound_type": "2",
+      "product": [
+        {
+          "id": "8",
+          "name": "Hi-speed Diesel B7",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/DieselB7_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "5",
+          "name": "Unlead Gas 95",
+          "image": "https://www.pttstation.com/Content/icons/products/new_2019_2/5bs.png",
+          "group": "1"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "6",
+          "name": "GASOHOL 95-E85",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E85_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "40",
+          "name": "7-11",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/7Eleven.png"
+        }
+      ],
+      "pttcard": [],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=15467"
+    },
+    {
+      "id": "15003",
+      "name": "สถานีบริการ สาขาสวัสดิการกรมวิชาการเกษตร",
+      "km": "9.56",
+      "address": "50 ถ.พหลโยธิน",
+      "image": "https://www.pttstation.com/Content/images/station/PTT-Station.jpg",
+      "logo": "https://www.pttstation.com/assets/img/logo.png",
+      "lat": "13.8500033350362",
+      "lng": "100.572725270977",
+      "type": "OIL",
+      "gaslevel": "0",
+      "ngv_type": "",
+      "minimap": "",
+      "pbl": "0000100063",
+      "bound": null,
+      "phone": "",
+      "bound_type": "0",
+      "product": [
+        {
+          "id": "561",
+          "name": "Hi-speed Diesel",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Diesel_092020.png",
+          "group": "2"
+        },
+        {
+          "id": "1",
+          "name": "GASOHOL 95",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohol95_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "3",
+          "name": "GASOHOL 91",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/Gasohal91_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "4",
+          "name": "GASOHOL 95-E20",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E20_092020.png",
+          "group": "1"
+        },
+        {
+          "id": "6",
+          "name": "GASOHOL 95-E85",
+          "image": "https://www.pttstation.com/Content/icons/products/icon_09_2020/E85_092020.png",
+          "group": "1"
+        }
+      ],
+      "service": [
+        {
+          "id": "1",
+          "name": "Cafe Amazon",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/1CafeAmazon.png"
+        },
+        {
+          "id": "39",
+          "name": "PTT Fleet Card (KBank)",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/icon_09_2020/FeetCard_092020.png"
+        },
+        {
+          "id": "11",
+          "name": "Friendly Design",
+          "image": "https://www.pttstation.com/Content/s-assets/Services/new_2019/12Friendly.png"
+        }
+      ],
+      "pttcard": [
+        {
+          "id": "30",
+          "name": "COCO PTT",
+          "image": "https://www.pttstation.com/NULL"
+        }
+      ],
+      "icon": [
+        {
+          "id": "1",
+          "type": "OIL",
+          "icon_pin": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png",
+          "icon_bar": "https://www.pttstation.com/Content/icons/pin/Artboard 1-8.png"
+        }
+      ],
+      "province_id": "2",
+      "province_name": "กรุงเทพมหานคร",
+      "link_share": "https://www.pttstation.com/th?station_id=15003"
+    }
+  ]
+}
